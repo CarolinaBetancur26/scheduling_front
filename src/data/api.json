@@ -1,0 +1,12 @@
+{
+    "apiUrl":"http://localhost:5000/api/",
+    "sedes" :{
+        "show" : "sedes/show"
+    },
+    "services":{        
+        "show":"services/show"      
+    },
+    "schedule":{       
+        "show":"schedule/show"        
+    }    
+}
